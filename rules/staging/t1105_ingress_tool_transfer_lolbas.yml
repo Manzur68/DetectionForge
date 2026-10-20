@@ -8,7 +8,6 @@ description:
 author: DetectionForge Team
 date: 2026-10-06
 references:
-    - https://attack.mitre.org/techniques/T1105/
     - https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1105/T1105.md
 
 logsource:
