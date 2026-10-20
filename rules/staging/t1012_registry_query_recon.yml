@@ -5,7 +5,6 @@ description: >
   Detecta la ejecución de reg.exe con el comando query, lo cual es indicativo de técnicas de reconocimiento (T1012) y puede preceder a otras técnicas de ataque.
 date: 2026-10-06
 references:
-    - https://attack.mitre.org/techniques/T1012/
     - https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1012/T1012.md
 
 logsource:
