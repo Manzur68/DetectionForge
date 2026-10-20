@@ -6,7 +6,6 @@ description: >
 author: DetectionForge Team
 date: 2026-10-06
 references:
-    - https://attack.mitre.org/techniques/T1082/
     - https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1082/T1082.md
 logsource:
     category: process_creation
