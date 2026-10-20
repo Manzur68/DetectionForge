@@ -7,7 +7,6 @@ description: >
 author: DetectionForge Team
 date: 2026-10-06
 references:
-    - https://attack.mitre.org/techniques/T1055/
     - https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1055/T1055.md
 
 logsource:
