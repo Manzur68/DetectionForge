@@ -6,7 +6,6 @@ description: >
 author: DetectionForge Team
 date: 2026-10-07
 references:
-    - https://attack.mitre.org/techniques/T1047/
     - https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1047/T1047.md
 
 logsource:
