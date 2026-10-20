@@ -7,7 +7,6 @@ description: >
 author: DetectionForge Team
 date: 2026-10-07
 references:
-    - https://attack.mitre.org/techniques/T1021/002/
     - https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1021.002/T1021.002.md
 
 logsource:
