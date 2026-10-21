@@ -1,0 +1,8 @@
+pysigma
+sigma-cli
+pysigma-backend-splunk 
+pysigma-backend-elasticsearch
+pyyaml
+yamllint
+pre-commit
+pytest
